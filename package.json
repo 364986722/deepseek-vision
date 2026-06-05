@@ -1,0 +1,8 @@
+{
+  "name": "deepseek-vision-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.9.0"
+  }
+}
