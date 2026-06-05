@@ -20,7 +20,7 @@
 ## 安装
 
 ```bash
-git clone <your-repo-url> deepseek-vision
+git clone https://github.com/364986722/deepseek-vision.git
 cd deepseek-vision
 npm install
 ```
